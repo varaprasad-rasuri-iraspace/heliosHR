@@ -1,0 +1,24 @@
+{
+  "event_id": "evt_01HXPRIYA0001",
+  "event_type": "worker.hire.completed",
+  "occurred_at": "2026-10-19T04:12:00Z",
+  "worker": {
+    "worker_id": "W-100245",
+    "first_name": "Priya",
+    "last_name": "Nair",
+    "preferred_name": "Priya",
+    "job_title": "Senior Customer Success Manager",
+    "department": "Customer Success",
+    "location": "London, UK",
+    "country": "GB",
+    "worker_type": "employee",
+    "manager_email": "daniel.okafor@helioshr.com",
+    "start_date": "2026-11-02",
+    "cost_center": "CC-410",
+    "hr_notes": "Covers UK & Nordics enterprise accounts.",
+    "ssn_last4": "1234",
+    "date_of_birth": "1990-04-02",
+    "home_address": "12 Example Road, London",
+    "base_salary": 95000
+  }
+}

@@ -1,0 +1,4 @@
+# MCP server (mcp_server.py):
+mcp>=1.27.2,<2
+# MCP_AUTH=on: validate Okta RS256 access tokens against the configured JWKS.
+PyJWT[crypto]>=2.8

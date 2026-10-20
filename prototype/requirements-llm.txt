@@ -1,0 +1,2 @@
+# Optional unified provider adapter for Anthropic, OpenAI, and Gemini.
+litellm>=1.105.1,<2
